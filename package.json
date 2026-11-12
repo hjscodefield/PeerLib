@@ -1,0 +1,23 @@
+{
+  "name": "peerlib",
+  "version": "1.0.0",
+  "description": "PeerLib: A community social platform for NBKRIST students & faculty to share study materials",
+  "scripts": {
+    "start": "node backend/src/server.js",
+    "server": "node backend/src/server.js",
+    "client": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "test:api": "node backend/test_api.js",
+    "db:check": "node backend/database/test_mysql.js"
+  },
+  "keywords": [
+    "nbkrist",
+    "peerlib",
+    "study-sharing",
+    "react",
+    "express",
+    "mysql"
+  ],
+  "author": "NBKRIST Engineering Community",
+  "license": "ISC"
+}
