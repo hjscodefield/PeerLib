@@ -5,20 +5,6 @@ PeerLib is a dedicated academic resource sharing and social peer network enginee
 
 ---
 
-## 🎨 Ocean Color Palette Mapping
-
-The application is styled with the designated high-contrast, glare-free Ocean Palette:
-
-| Token | Hex Code | Role in PeerLib UI |
-|---|---|---|
-| **Primary** | `#082F49` (Deep Slate Navy) | Main headings, top navigation bar, primary text, bold container outlines. |
-| **Secondary** | `#0E7490` (Deep Teal) | Card titles, active navigation tabs, filter chips, action buttons. |
-| **Accent** | `#22D3EE` (Electric Cyan) | "Faculty Verified" badges, active glow states, rating stars, hover effects, CTAs. |
-| **Support** | `#CFFAFE` (Soft Cyan/Ice Tint) | Subtle card headers, tag backgrounds, notification banners, hover fills. |
-| **Background** | `#F0FDFA` (Mint Ice) | Soft, ultra-clean background eliminating screen glare. |
-
----
-
 ## ⚡ Tech Stack
 
 - **Frontend**: React (Vite) + Tailwind CSS + Lucide Icons + Google Plus Jakarta Sans font
